@@ -18,8 +18,8 @@ A Minecraft mod that introduces the **Feline Presence** enchantment, allowing yo
 
 ### 🎁 Morning Gifts
 **Feline Presence** cannot be obtained through enchanting tables, as it is a **Treasure Enchantment**.
-
 Instead, tamed cats have a small chance to gift an **enchanted book** containing **Feline Presence** as part of their **morning gift** behavior.
+The drop chance can be adjusted through the mod configuration file.
 
 ---
 
